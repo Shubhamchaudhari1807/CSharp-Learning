@@ -1,0 +1,15 @@
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\bin\Debug\net9.0\Oops_practice.exe
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\bin\Debug\net9.0\Oops_practice.deps.json
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\bin\Debug\net9.0\Oops_practice.runtimeconfig.json
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\bin\Debug\net9.0\Oops_practice.dll
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\bin\Debug\net9.0\Oops_practice.pdb
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\Oops_practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\Oops_practice.AssemblyInfoInputs.cache
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\Oops_practice.AssemblyInfo.cs
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\Oops_practice.csproj.CoreCompileInputs.cache
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\Oops_practice.sourcelink.json
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\Oops_practice.dll
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\refint\Oops_practice.dll
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\Oops_practice.pdb
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\Oops_practice.genruntimeconfig.cache
+D:\DotnetProject\C#\C Sharp Learning\Roadmap\OOPS_PRACTICE\Oops_practice\obj\Debug\net9.0\ref\Oops_practice.dll

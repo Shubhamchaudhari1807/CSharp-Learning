@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\method_overriding_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:method_overriding_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\method_overloading_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:method_overloading_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\exception_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:exception_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\interface_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:interface_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\abstraction_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:abstraction_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\polymorphism_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:polymorphism_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\printclassfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:printclassfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\encapsulationexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:encapsulationexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\constructor_learning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:constructor_learning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|d:\\dotnetproject\\c#\\c sharp learning\\roadmap\\oops_practice\\oops_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83363ACB-94EE-CD53-8AD5-568291CE3A8B}|Oops_practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Method_Overriding_Example.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Method_Overriding_Example.cs",
+              "RelativeDocumentMoniker": "Method_Overriding_Example.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Method_Overriding_Example.cs",
+              "RelativeToolTip": "Method_Overriding_Example.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:09:27.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Method_Overloading_Example.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Method_Overloading_Example.cs",
+              "RelativeDocumentMoniker": "Method_Overloading_Example.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Method_Overloading_Example.cs",
+              "RelativeToolTip": "Method_Overloading_Example.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:49:38.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exception_Example.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Exception_Example.cs",
+              "RelativeDocumentMoniker": "Exception_Example.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Exception_Example.cs",
+              "RelativeToolTip": "Exception_Example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:39:21.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interface_Example.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Interface_Example.cs",
+              "RelativeDocumentMoniker": "Interface_Example.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Interface_Example.cs",
+              "RelativeToolTip": "Interface_Example.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:33:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abstraction_Example.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Abstraction_Example.cs",
+              "RelativeDocumentMoniker": "Abstraction_Example.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Abstraction_Example.cs",
+              "RelativeToolTip": "Abstraction_Example.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:24:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Polymorphism_Example.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Polymorphism_Example.cs",
+              "RelativeDocumentMoniker": "Polymorphism_Example.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Polymorphism_Example.cs",
+              "RelativeToolTip": "Polymorphism_Example.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:08:20.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:03:36.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncapsulationExample.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\EncapsulationExample.cs",
+              "RelativeDocumentMoniker": "EncapsulationExample.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\EncapsulationExample.cs",
+              "RelativeToolTip": "EncapsulationExample.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:43:52.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constructor_Learning.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Constructor_Learning.cs",
+              "RelativeDocumentMoniker": "Constructor_Learning.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Constructor_Learning.cs",
+              "RelativeToolTip": "Constructor_Learning.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:07:30.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrintClassFields.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\PrintClassFields.cs",
+              "RelativeDocumentMoniker": "PrintClassFields.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\PrintClassFields.cs",
+              "RelativeToolTip": "PrintClassFields.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:00:43.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotnetProject\\C#\\C Sharp Learning\\Roadmap\\OOPS_PRACTICE\\Oops_practice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:55:41.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
